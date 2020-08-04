@@ -32,7 +32,7 @@
 
 ## Hello Project
 
-[실습 코드]([https://github.com/BonHyuck/Java/blob/master/practice/chapter01/Hello%20Project/src/HelloWorld.java](https://github.com/BonHyuck/Java/blob/master/practice/chapter01/Hello Project/src/HelloWorld.java))
+[실습 코드]([https://github.com/BonHyuck/Java/blob/master/practice/chapter01/Hello%20Project/src/HelloWorld.java])
 
 1. File -> New -> Java Project
 
