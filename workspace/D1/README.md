@@ -4,13 +4,13 @@
 
 ## 문제 리스트
 
-- SWEA2072 : 홀수 더하기
+- SWEA2072 : 홀수 더하기 [Link](https://github.com/BonHyuck/Java/blob/master/workspace/D1/src/SWEA2072.java)
 
 
 
 ## 문제로 배운 점
 
-### SWEA 2072
+### SWEA 2072 [Link](https://github.com/BonHyuck/Java/blob/master/workspace/D1/src/SWEA2072.java)
 
 자바로 풀은 첫 SWEA 문제입니다. 
 
