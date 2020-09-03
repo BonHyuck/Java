@@ -16,8 +16,7 @@ public class SWEA2070 {
 				result = "<";
 			}
 			System.out.println(String.format("#%d %s", test_case, result));
-		}
-		
+		}		
 	}
 
 }
