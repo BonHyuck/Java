@@ -1,5 +1,3 @@
-[TOC]
-
 # SWEA D1 with JAVA
 
 > 문제의 순서는 제가 풀어낸 순서입니다.
