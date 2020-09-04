@@ -49,3 +49,21 @@
 자바에서 배열을 정렬하려면 Arrays 를 import 해오면 쉽게 할 수 있긴하지만 연습하는 중이기떄문에 쓰지 않으려고 했습니다. 또 코딩테스트에서 그런 걸 써도 되는지 의문이라 최대한 안 쓰고 해결했습니다. 
 
 초반에 입력값을 분류할 때 약간의 혼선이 있었습니다. 테스트 케이스의 갯수를 먼저 받는 줄 알았지만 테스트 케이스 갯수는 입력값으로 주어지지 않았다는 걸 확인하고는 문제 없이 해결했습니다.
+
+
+
+## SWEA 2058 : 자리수 더하기
+
+[Link](https://github.com/BonHyuck/Java/blob/master/workspace/D1/src/SWEA2058.java)
+
+정수의 나누기를 이용한 간단한 문제였습니다.
+
+
+
+## SWEA 2056 : 연월일 구하기
+
+[Link](https://github.com/BonHyuck/Java/blob/master/workspace/D1/src/SWEA2056.java)
+
+오랜만에 사용한 `substring`이지만 어려움은 없었습니다. 
+
+단지 if문이 많이 들어가게 돼서 효율적인 방법이 없을까 싶었지만 생각이 안 났습니다.
